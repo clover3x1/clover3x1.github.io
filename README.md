@@ -1,1 +1,2 @@
-# clover3x1.github.io
+# Personal Website
+repository for a ersonal GitHub Pages website, really barebones right now ^-^
