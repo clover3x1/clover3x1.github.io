@@ -1,2 +1,2 @@
 # Personal Website
-repository for a ersonal GitHub Pages website, really barebones right now ^-^
+repository for a personal GitHub Pages website, really barebones right now ^-^
